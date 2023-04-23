@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\ELI\nrv-brk-out\aou_34\NRV-AOU34.PCBDOC
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=nrv_aou34a-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=nrv_aou34a-slotholes.txt|DrillLayers=gtl,gbl

@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [NRV-MEM-LCD.PCBDOC]
+   Generated File[NRV-MEM-LCDA.TXT]
+   Generated File[NRV-MEM-LCDA.LDP]
+   Generated File[NRV-MEM-LCDA.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:22:11 PM On 3/26/2023

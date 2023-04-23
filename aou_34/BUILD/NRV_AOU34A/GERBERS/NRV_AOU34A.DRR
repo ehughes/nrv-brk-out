@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: NRV-AOU34.PCBDOC   4/23/2023  4:13:17 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : NRV_AOU34A-RoundHoles.TXT
+ASCII SlotHoles File : NRV_AOU34A-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.254mm)                                           Round             4         PTH        1.33inch (33.69mm)
+T2      12mil (0.305mm)                                           Round             75        PTH        24.92inch (633.08mm)
+T3      24mil (0.6mm)                                             Slot              4         PTH        1.14inch (29.03mm)
+T4      38mil (0.965mm)                                           Round             140       PTH        19.51inch (495.61mm)
+T5      28mil (0.71mm)                                            Round             2         NPTH       0.31inch (8.00mm)
+T6      125mil (3.175mm)                                          Round             4         NPTH       8.29inch (210.57mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              229
+
+Total Processing Time (hh:mm:ss) : 00:00:00
