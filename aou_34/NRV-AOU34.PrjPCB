@@ -110,136 +110,136 @@ DocumentPath=Project Outputs for NRV-AOU34\Design Rule Check - NRV-AOU34.html
 DItemRevisionGUID=
 
 [Parameter1]
-Name=BOM_NOTES_LINE_1
-Value=-
+Name=SCH_DATE
+Value=2023-04-23
 
 [Parameter2]
-Name=BOM_NOTES_LINE_2
-Value=-
-
-[Parameter3]
-Name=BOM_NOTES_LINE_3
-Value=-
-
-[Parameter4]
-Name=BOM_NOTES_LINE_4
-Value=-
-
-[Parameter5]
-Name=CCA_PART_NUMBER
-Value=NRV-MEM-LCD
-
-[Parameter6]
-Name=CCA_TITLE
-Value=Bullet Bill
-
-[Parameter7]
-Name=PCB_COPPER_WEIGHT_INNER
-Value=1oz
-
-[Parameter8]
-Name=PCB_COPPER_WEIGHT_OUTER
-Value=1oz
-
-[Parameter9]
-Name=PCB_DIMENSION_X
+Name=PROJECT_TITLE_LINE_2
 Value=
 
+[Parameter3]
+Name=PROJECT_TITLE_LINE_1
+Value=NRV_AOU34
+
+[Parameter4]
+Name=PROJECT_STATUS
+Value=PROTOTYPE
+
+[Parameter5]
+Name=PROJECT_SHORT_TITLE
+Value=NRV_AOU34
+
+[Parameter6]
+Name=PROJECT_ENGINEER
+Value=E. Hughes
+
+[Parameter7]
+Name=PROJECT_CODE_NAME
+Value=
+
+[Parameter8]
+Name=PCB_VERSION
+Value=A
+
+[Parameter9]
+Name=PCB_TITLE
+Value=NRV-MEM-LCD
+
 [Parameter10]
-Name=PCB_DIMENSION_Y
+Name=PCB_SOLDER_MASK_COLOR_TOP
 Value=
 
 [Parameter11]
-Name=PCB_DRC_DATE
-Value=
+Name=PCB_SOLDER_MASK_COLOR_BOTTOM
+Value=BLACK
 
 [Parameter12]
-Name=PCB_FINISH_PLATING
-Value=GOLD ENIG
+Name=PCB_SILKSCREEN_COLOR_TOP
+Value=BLACK
 
 [Parameter13]
-Name=PCB_FINISHED_THICKNESS
-Value=.032
+Name=PCB_SILKSCREEN_COLOR_BOTTOM
+Value=none
 
 [Parameter14]
-Name=PCB_LAYERS
-Value=6
+Name=PCB_PRINTOUT_SCALE
+Value=1:1
 
 [Parameter15]
-Name=PCB_MATERIAL
-Value=FR4
+Name=PCB_PART_NUMBER
+Value=NRV_AOU34
 
 [Parameter16]
-Name=PCB_MIN_DRILL
-Value=10
+Name=PCB_MIN_TRACE_WIDTH
+Value=6
 
 [Parameter17]
 Name=PCB_MIN_TRACE_SPACE
 Value=6
 
 [Parameter18]
-Name=PCB_MIN_TRACE_WIDTH
-Value=6
+Name=PCB_MIN_DRILL
+Value=10
 
 [Parameter19]
-Name=PCB_PART_NUMBER
-Value=NRV-MEM-LCD
+Name=PCB_MATERIAL
+Value=FR4
 
 [Parameter20]
-Name=PCB_PRINTOUT_SCALE
-Value=1:1
+Name=PCB_LAYERS
+Value=6
 
 [Parameter21]
-Name=PCB_SILKSCREEN_COLOR_BOTTOM
-Value=none
+Name=PCB_FINISH_PLATING
+Value=GOLD ENIG
 
 [Parameter22]
-Name=PCB_SILKSCREEN_COLOR_TOP
-Value=BLACK
+Name=PCB_FINISHED_THICKNESS
+Value=.0625
 
 [Parameter23]
-Name=PCB_SOLDER_MASK_COLOR_BOTTOM
-Value=BLACK
+Name=PCB_DRC_DATE
+Value=
 
 [Parameter24]
-Name=PCB_SOLDER_MASK_COLOR_TOP
+Name=PCB_DIMENSION_Y
 Value=
 
 [Parameter25]
-Name=PCB_TITLE
-Value=NRV-MEM-LCD
+Name=PCB_DIMENSION_X
+Value=
 
 [Parameter26]
-Name=PCB_VERSION
-Value=A
+Name=PCB_COPPER_WEIGHT_OUTER
+Value=1oz
 
 [Parameter27]
-Name=PROJECT_CODE_NAME
-Value=
+Name=PCB_COPPER_WEIGHT_INNER
+Value=1oz
 
 [Parameter28]
-Name=PROJECT_ENGINEER
-Value=E. Hughes
+Name=CCA_TITLE
+Value=Azumo 3.4" Dev
 
 [Parameter29]
-Name=PROJECT_SHORT_TITLE
-Value=NRV-MEM-LCD
+Name=CCA_PART_NUMBER
+Value=NRV_AOU34
 
 [Parameter30]
-Name=PROJECT_STATUS
-Value=PROTOTYPE
+Name=BOM_NOTES_LINE_4
+Value=-
 
 [Parameter31]
-Name=PROJECT_TITLE_LINE_1
-Value=NRV-MEM-LCD
+Name=BOM_NOTES_LINE_3
+Value=-
 
 [Parameter32]
-Name=PROJECT_TITLE_LINE_2
-Value=
+Name=BOM_NOTES_LINE_2
+Value=-
 
 [Parameter33]
-Name=SCH_DATE
-Value=2022-08-10
+Name=BOM_NOTES_LINE_1
+Value=-
 
 [Configuration1]
 Name=Default Configuration
